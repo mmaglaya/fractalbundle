@@ -1,5 +1,5 @@
 {
-    "name": "sac/fractal-bundle-test",
+    "name": "samj/fractal-bundle-test",
     "license": "MIT",
     "type": "library",
     "description": "A Symfony Bundle for Fractal by League. Implements dependency injection into your transformers",
